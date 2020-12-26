@@ -1,0 +1,91 @@
+@charset "UTF-8";
+#wrapper {
+    overflow: hidden;
+}
+
+.info-user {
+    position: relative;
+    background: bisque;
+    top: 25px;
+    left: 200px;
+}
+
+.info-user-icon {
+    position: absolute;
+
+    font-size: 40px;
+}
+
+.info-account {
+    position: absolute;
+    left: 55px;
+    top: 5px;
+    font-size: 15px;
+}
+
+.info-user-more {
+    position: absolute;
+    left: 55px;
+    top: 30px;
+    font-size: 14px;
+}
+.info-user-more a {
+    color: #ED6B5B;
+}
+.info-user {
+    position: unset;
+    background: none;
+    top: unset;
+    left: unset;
+}
+.info-user-icon {
+    right: 40%;
+}
+.info-account {
+    left: unset;
+    right: 10%;
+}
+.info-user-more{
+    left: unset;
+    right: 10%;
+}
+/* ============FORM FIND============ */
+form#find {
+    position: relative;
+}
+
+form#find input{
+    float: right;
+    width: 248px;
+    border: none;
+    outline: auto;
+    padding: 9px 42px 9px 15px;
+    color: #909090;
+    margin-right: 10px;
+}
+
+form#find button {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background: none;
+    border: none;
+    color: #a2a1a1;
+    padding: 9px 13px;
+    margin-right: 10px;
+}
+
+form#find ::placeholder {
+    color: #909090;
+}
+.header-menu {
+	display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.header-menu a.btn {
+	width: 250px;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+    margin-right: 10px;
+}

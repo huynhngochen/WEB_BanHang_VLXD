@@ -1,0 +1,55 @@
+@CHARSET "ISO-8859-1";
+
+.container-fluid .row {
+	background: #fff;
+	padding: 50px 0px;
+}
+
+.errors {
+			color: red;
+		}
+/* ============FORM FIND============ */
+form#find {
+    position: relative;
+}
+
+form#find input {
+	float: right;
+    width: 50%;
+    border: none;
+    padding: 10px 40px 10px 10px;
+    color: #909090;
+    outline: auto;
+    border-radius: 30px;
+    opacity: 0.8;
+}
+
+form#find button {
+    position: absolute;
+    top: 9px;
+    right: 0px;
+    background: none;
+    border: none;
+    color: #a2a1a1;
+    padding: 5px 10px;
+}
+
+form#find ::placeholder {
+    color: #909090;
+}
+.info-user-more a {
+	font-weight: bold;
+	font-size: 14px;
+    color: #f33155;
+    padding-right: 10px
+}
+.info-user-more a:hover {
+	color: #fff;
+}
+table td a {
+color: #f33155;
+}
+table td a:hover {
+color: #000;
+text-decoration: underline;
+}

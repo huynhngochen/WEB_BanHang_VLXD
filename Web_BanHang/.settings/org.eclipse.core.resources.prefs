@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin/managerAccount-insert.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/admin/test.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/hen/header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/order/searchStatus.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/order/update.jsp=UTF-8
+encoding//WebContent/asset/css/style.css=UTF-8
+encoding//src/accessFacebook/RestFB.java=UTF-8
+encoding//src/ptithcm/controller/AdminController.java=UTF-8
+encoding//src/ptithcm/controller/AdminOrderController.java=UTF-8
+encoding//src/ptithcm/controller/CartController.java=UTF-8
+encoding//src/ptithcm/controller/ImportController.java=UTF-8
+encoding//src/ptithcm/controller/OrderController.java=UTF-8
+encoding//src/ptithcm/controller/ProductController.java=UTF-8
+encoding//src/ptithcm/controller/PromotionController.java=UTF-8
+encoding//src/ptithcm/controller/UserController.java=UTF-8
+encoding//src/ptithcm/entity/DatHang.java=UTF-8
